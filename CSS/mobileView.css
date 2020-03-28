@@ -47,7 +47,7 @@
 
     .home-section {
         width: 100vw;
-        height: 100vh;
+        /* height: 100vh; */
         background-color: var(--Very--Light--Gray);
     }
     .container {
@@ -83,6 +83,7 @@
         align-items: center;
         margin-left: 6%;
         margin-right: 6%;
+        margin-bottom: 20%;
     }
     .btn {
         height: 30px;
